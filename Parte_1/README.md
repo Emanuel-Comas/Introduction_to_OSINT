@@ -44,3 +44,40 @@
 
     
 ### Por que es útil?.
+
+
+-- Para defensores:
+
+    Al analizar al información disponible en internet, lso defensores pueden tomar medidas para reducir esta cifra o implementar otros controles que mitiguen los ataques o reduzcan su eficacia.
+
+
+
+-- Para al aplicación de la ley:
+
+    Las organizaciónes gubernamentales y policuales utilizarán la OSINT para rastrear a personas de interés, 
+    como delincuentes, sospechosos y terroristas.
+    Se elavoran perfiles, recopilando información sobre un individio para crear una imagen de su personalidad 
+    y comportamiento.
+
+    Trace labs: Es uan organización sin fines de lucro, que aloja CTF de 'OSINT' en linea, que en realidad 
+    trabajan para rastrear a las personas desaparecidas y ayudar a las fuerzas del orden.
+
+
+-- Para empresas:
+
+    Las empresas pueden utilizar 'OSINT' para vigilar a la competencia, observar la actividad del mercado, obtener mas información sobre sus clientes y la mejor manera de interactuar con ellos, mejorar las 
+    operaciónes comerciales mediante el enriquecimiento de datos y también supervisar los riesgos de seguridad.
+
+    Gran parte de esto consiste en monitorear los canales de redes sociales de la competencia para ver qué 
+    estan haciendo bien, ya que esto se puede utilizar para reforzar las estrategias de marketing.
+
+
+
+-- Para atacantes:
+
+    Al determinar que sistemas utiliza una empresa, se pueden planificar con antelación los exploits y los métodos de ataques correctos, se recopila información de empleados, lo que permite llevar a cabo ataques de ingenieria social potencialmente efectivos y campañas de correo electrónico de suplantación de identidad, adaptadas a los objetivos previstos para que sean mas creibles.
+
+
+
+
+### Roles asociados.
